@@ -1,31 +1,3 @@
 # computer-vision-valorant
 
-
-## Introduction
-
-
-## YOLO
-
-
-## FastSAM
-
-
-## RT-DETR
-
-
-## Datasets
-
-
-## Training
-
-
-## Experiment
-
-
-## Results
-
-
-## Discussion
-
-
-## Conclusion
+Link to the blog: https://hackmd.io/@computervisiongroup38/Syuk3PjH0
